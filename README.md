@@ -1,7 +1,13 @@
 # Smart-Car-Parking
 
+Download the code file and import in jupyter notebook. 
 
-For More paper reading of deep learning. 
+
+
+
+# For More paper reading of deep learning. 
+
+
 @Article{electronics10172064,
 
 AUTHOR = {Rashid, Javed and Khan, Imran and Ali, Ghulam and Almotiri, Sultan H. and AlGhamdi, Mohammed A. and Masood, Khalid},
